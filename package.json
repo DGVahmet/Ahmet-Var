@@ -1,0 +1,25 @@
+{
+  "name": "ahmet-var",
+  "version": "1.0.0",
+  "description": "bu bir deneme projesidir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "fionce": "echo 'Aslıhan Oz'",
+    "study": "echo 'Javascript'"
+  },
+  "keywords": [
+    "deneme",
+    "proje"
+  ],
+  "author": "Ahmet Var",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.3.1",
+    "nodemailer": "^6.7.3",
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.72.0"
+  }
+}
